@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProblemSet2</string>
+    <string name="startStory">START A NEW STORY!</string>
+    <string name="send">Send</string>
+    <string name="filledPlaceholders">Remaining words to fill in:</string>
+    <string name="gameInfo">Welcome! I have a nice story for you! But... some words are missing. Can you help me? I will tell you what type of words to write,
+        but you won\'t see the complete story until it\'s finished. Go ahead and create your own unique story!</string>
+    <string name="specifyType">Give me a/an</string>
+    <string name="storyWritten">Wow, look at this amazing story you wrote!</string>
+    <string name="newGame">Click here to start a new game</string>
+    <string name="theme">Theme:</string>
+    <string name="fileNotFound">Unable to load story</string>
+</resources>
