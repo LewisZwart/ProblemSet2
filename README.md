@@ -6,3 +6,5 @@ Implementation of the game Madlibs. The app prompts the user for word types, for
 After the user has provided the words to fill all the gaps in the story, the complete story is shown.
 
 Choice between five different themes.
+
+I've had some problems uploading to git, so if something is missing, please contact me.
